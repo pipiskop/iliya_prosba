@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/iililili/iililili/bin/Debug/net6.0/iililili
+/Users/pipiskop/Projects/iililili/iililili/bin/Debug/net6.0/iililili.deps.json
+/Users/pipiskop/Projects/iililili/iililili/bin/Debug/net6.0/iililili.runtimeconfig.json
+/Users/pipiskop/Projects/iililili/iililili/bin/Debug/net6.0/iililili.dll
+/Users/pipiskop/Projects/iililili/iililili/bin/Debug/net6.0/iililili.pdb
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.AssemblyInfo.cs
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.dll
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/refint/iililili.dll
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.pdb
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/iililili.genruntimeconfig.cache
+/Users/pipiskop/Projects/iililili/iililili/obj/Debug/net6.0/ref/iililili.dll
